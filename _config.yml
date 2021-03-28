@@ -29,7 +29,7 @@ url: "https://endless-maui-summer.github.io/" # the base hostname & protocol for
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
-# destination: docs
+destination: docs
 github: [metadata]
 
 # Build settings
