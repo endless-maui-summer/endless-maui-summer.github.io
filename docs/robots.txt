@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://endless-maui-summer.github.io//sitemap.xml
