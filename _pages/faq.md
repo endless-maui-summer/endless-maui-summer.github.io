@@ -6,6 +6,8 @@ sidebar:
   nav: "guide"
 toc: true
 toc_sticky: true
+categories:
+  - faq
 ---
 # Frequently Asked Questions
 

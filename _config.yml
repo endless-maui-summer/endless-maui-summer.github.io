@@ -28,7 +28,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://endless-maui-summer.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
-destination: docs
+
+# destination: docs
+
 # Build settings
 # theme: minima
 theme: minimal-mistakes-jekyll
@@ -36,7 +38,31 @@ minimal_mistakes_skin: air
 plugins:
   - jekyll-feed
 
-include: ["_pages"]
+repository: endless-maui-summer/endless-maui-summer.github.io.git
+
+algolia:
+  application_id: NULSR92J04
+  index_name: prod_j102
+  search_only_api_key: 6730fb9953ed336a561b06bf450fe9b5
+  nodes_to_index: 'p,blockquote,li,div.paragraph'
+  settings:
+
+      searchableAttributes:
+
+          - title
+
+          - headings
+
+          - content
+
+          - collection,categories,tags
+
+search_provider: algolia
+
+search: true
+
+include:
+  - _pages
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
