@@ -2,6 +2,10 @@
 layout: single
 title: Guest Details
 permalink: /guest-details/
+sidebar:
+  nav: "guide"
+toc: true
+toc_sticky: true
 ---
 ## Repairs or Issues
 

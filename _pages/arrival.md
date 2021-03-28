@@ -2,10 +2,15 @@
 layout: single
 title: Arrival
 permalink: /arrival/
+sidebar:
+  nav: "guide"
+toc: true
+toc_sticky: true
 ---
-### Address: __2661 Kekaa Dr, Lahaina HI 96761__
-  * 28 miles from the airport, roughly a 42 minute drive
-  * link to [driving directions from the airport to the unit](https://goo.gl/maps/4vW6BPEcHR9wsZ9x8)
+# Address
+__2661 Kekaa Dr, Lahaina HI 96761__
+* 28 miles from the airport, roughly a 42 minute drive
+* link to [driving directions from the airport to the unit](https://goo.gl/maps/4vW6BPEcHR9wsZ9x8)
 
 > There are several big name box stores by the airport, such as Costco, Target, and Walmart, so
 you may want to stop for supplies before driving to Ka'anapali.

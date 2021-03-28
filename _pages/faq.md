@@ -2,6 +2,10 @@
 layout: single
 title: FAQ
 permalink: /faq/
+sidebar:
+  nav: "guide"
+toc: true
+toc_sticky: true
 ---
 # Frequently Asked Questions
 

@@ -1,0 +1,21 @@
+main:
+  - title: "Arrival"
+    url: /arrival
+  - title: "Checkout"
+    url: /checkout/
+  - title: "FAQ"
+    url: /faq/
+
+guide:
+  - title: Guest Guide
+    children:
+      - title: "Arrival"
+        url: /arrival
+      - title: "Checkout"
+        url: /checkout
+      - title: "FAQ"
+        url: /faq
+      - title: "Guest Details"
+        url: /guest-details
+
+

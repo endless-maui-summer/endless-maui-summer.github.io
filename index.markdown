@@ -1,7 +1,13 @@
 ---
+title: Guest Guide
 layout: splash
 header:
   overlay_image: /assets/images/beach.jpg
+  actions:
+  - label: "Start"
+    url: "/arrival/"
+sidebar:
+  nav: "guide"
 ---
 
 # Maui Eldorado J102
@@ -15,12 +21,5 @@ We bought the place February 2020 and have completed a HUGE remodel, including n
 kitchen, bathrooms and sliding glass doors. You won't recognize the pre-renovation photos
 once its done!
 
-We are excited and commited to providing you a wonderful experience. Please read
-more about your upcoming stay below, and don't hesitate to reach out with any questions. We hope
+We are excited and committed to providing you a wonderful experience. Please read more about your stay [here](/arrival), and don't hesitate to reach out with any questions. We hope
 you have a wonderful stay!
-
-* [Arrival](/arrival)
-* [Check out](/checkout)
-* [Guest details](/guest-details)
-* [FAQ](/faq)
-
