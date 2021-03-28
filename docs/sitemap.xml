@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://endless-maui-summer.github.io//arrival/</loc>
+<loc>http://localhost:4000/arrival/</loc>
 </url>
 <url>
-<loc>https://endless-maui-summer.github.io//checkout/</loc>
+<loc>http://localhost:4000/checkout/</loc>
 </url>
 <url>
-<loc>https://endless-maui-summer.github.io//faq/</loc>
+<loc>http://localhost:4000/faq/</loc>
 </url>
 <url>
-<loc>https://endless-maui-summer.github.io//guest-details/</loc>
+<loc>http://localhost:4000/guest-details/</loc>
 </url>
 <url>
-<loc>https://endless-maui-summer.github.io//</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 </urlset>
