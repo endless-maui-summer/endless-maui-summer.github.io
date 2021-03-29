@@ -19,7 +19,7 @@ This is a guide for you with more information about your stay at the condo, so p
 you have a wonderful stay!
 
 ## Guide
-* [Arrival](/arrival)
-* [Checkout](/checkout)
-* [FAQ](/faq)
+* Here for the first time, check out the [FAQ](/faq)
+* T-minus 1 day: [Arrival](/arrival)
+* Well that was fast: [Checkout](/checkout)
 

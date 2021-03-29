@@ -17,5 +17,10 @@ guide:
         url: /faq
       - title: "Guest Details"
         url: /guest-details
-
+      - title: "Issues"
+        url: /issues
+      - title: "Amenities"
+        url: /amenities
+      - title: "Contacts"
+        url: /contacts
 
