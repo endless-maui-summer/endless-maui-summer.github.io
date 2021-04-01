@@ -7,6 +7,10 @@ sidebar:
 toc: true
 toc_sticky: true
 ---
+## Showers
+* We are the closest to the beach, but also at the end of the water line, so the water can take a couple of minutes to warm up.
+> You may want to run the water a bit before hopping in but please close the door/curtain behind you to avoid water pooling on the bathroom floor
+
 ## Beds and bedding
 * There will be an extra pillow, blanket, and extra set of sheets in the bottom drawers of the large dressers in each room and bin located in the queens bedroom.
 

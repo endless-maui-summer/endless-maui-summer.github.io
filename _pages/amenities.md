@@ -10,11 +10,11 @@ toc_sticky: true
 ## Front desk and bell services
 
 ## Pools
-* 3 pools __TODO__ 
-* Add page map as an image
+* There are 3 pools at the property (a map will be provided to you at check in)
 * No towels provided at the pool, so bring from the cabana or the towels provided at the unit.
 
 ## Cabana
+The cabana is a wonderful amenity complete with stove, fridge, seating, bathroom, and beach towel and chair service. Call the front desk for a ride there and/or back.
 
 ## Beach Equipment
 The beach equipment is located in the box on the lanai, and will include a couple of boogie boards and snorkel sets in addition to an assortment of small toys. Please store the items as they were after each use.
@@ -32,10 +32,10 @@ There are 4 beach chairs provided for your use.  Please remember to check your t
 * There's a stop right outside the Sheraton which is within view from the lanai.
 
 ## Televisions
-* __TODO__ add note about comcast
-* there are apps built into the TV for common services, Netflix, Hulu, Amazon
+* The television service provider is Spectrum
+  * https://www.tvchannellists.com/List_of_channels_on_Spectrum_(Maui,_Hawaii)
+* There are also apps built into the TV for common services streaming services
 * Don't forget to logout from your accounts before you leave.
-https://www.tvchannellists.com/List_of_channels_on_Spectrum_(Maui,_Hawaii)
 
 ## Activities
 There is plenty to do on Maui no matter what your tastes are. Golf, tennis, snorkeling, whale watching, day trips to Hana or the volcano. Unfortunately, we are not the most well versed in the details of all of these. We recommend you peruse the travel blogs and activity booking sites for ideas.

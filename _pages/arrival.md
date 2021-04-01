@@ -21,7 +21,6 @@ you may want to stop for supplies before driving to Ka'anapali.
 > Although we cannot offer early check in to the unit, you may check in early at the front desk
 to collect the parking pass.
 
-__TODO__ add bit about late checkout, path to photos: /Users/m0r00gq/Documents/wetransfer-90bc30
 
 ## On Arrival to Maui Eldorado
 1. Park by the main reception area located on the right as you enter

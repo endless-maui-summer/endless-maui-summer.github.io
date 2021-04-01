@@ -1,26 +1,38 @@
 main:
+  - title: "FAQ"
+    url: /faq
   - title: "Arrival"
     url: /arrival
   - title: "Checkout"
-    url: /checkout/
-  - title: "FAQ"
-    url: /faq/
+    url: /checkout
+  - title: "Guest Details"
+    url: /guest-details
+  - title: "Amenities"
+    url: /amenities
+  - title: "House Rules"
+    url: /rules
+  - title: "Issues"
+    url: /issues
+  - title: "Contacts"
+    url: /contacts
 
 guide:
   - title: Guest Guide
     children:
+      - title: "FAQ"
+        url: /faq
       - title: "Arrival"
         url: /arrival
       - title: "Checkout"
         url: /checkout
-      - title: "FAQ"
-        url: /faq
       - title: "Guest Details"
         url: /guest-details
-      - title: "Issues"
-        url: /issues
       - title: "Amenities"
         url: /amenities
+      - title: "House Rules"
+        url: /rules
+      - title: "Issues"
+        url: /issues
       - title: "Contacts"
         url: /contacts
 

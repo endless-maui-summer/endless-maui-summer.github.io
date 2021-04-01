@@ -9,17 +9,22 @@ sidebar:
 
 # Maui Eldorado J102
 
-Aloha and e komo mai _(welcome)_ to our beautiful condo. We are excited to host you!  We just completed a huge remodel and are excited to welcome our first guests!
+Aloha and e komo mai _(welcome)_ to our beautiful condo. We are excited to host you!  We just completed a huge remodel and are ecstatic to welcome our first guests!
 
-We are committed to providing you a wonderful experience and hope you enjoy the place as much as my husband and I do. We
-love the location, its private setting so close to
-the beach, and still right in the middle of Ka'anapali Trail.
-
-This is a guide for you with more information about your stay at the condo, so please explore, and don't hesitate to reach out with any questions. We hope
-you have a wonderful stay!
+This is a guide made for you with more information about your stay at the condo, so please explore. And don't hesitate to reach out with any questions.
 
 ## Guide
-* Here for the first time, check out the [FAQ](/faq)
-* T-minus 1 day: [Arrival](/arrival)
-* Well that was fast: [Checkout](/checkout)
+* [FAQ](/faq)
+* [Arrival](/arrival)
+* [Checkout](/checkout)
+* [Guest Details](/guest-details)
+* [Amenities](/amenities)
+* [Rules](/rules)
+* [Issues](/issues)
+* [Contacts](/contacts)
 
+### About us
+> My husband and I bought the place in the beginning of 2020, right before the world changed.
+> More than a year later, __we are welcoming our first guests__. We are committed to providing
+> you a wonderful experience and hope that it shows. Relax and enjoy yourselves! But when your home,
+> please leave us an honest review and help support our business. Mahalo!

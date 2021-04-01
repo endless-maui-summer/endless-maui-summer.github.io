@@ -41,6 +41,9 @@ plugins:
 
 repository: endless-maui-summer/endless-maui-summer.github.io.git
 
+atom_feed:
+  hide: true
+
 algolia:
   application_id: NULSR92J04
   index_name: prod_j102
