@@ -12,6 +12,8 @@ brew update && brew install openssl
 gem install eventmachine -- --with-cppflags="-I/usr/local/opt/openssl@3/include"
 ```
 
+> note the version, ensure it matches installed version
+
 ## install dependencies
 
 `bundle install`
